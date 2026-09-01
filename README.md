@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/BraveVahid/BraveVahid/blob/main/terminal.svg" alt="terminal">
+<img src="./terminal.svg?v=2" width="100%" alt="terminal">
 
 </div>
